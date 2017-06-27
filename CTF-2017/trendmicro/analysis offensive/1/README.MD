@@ -1,4 +1,4 @@
-# CodeGate: TrendMicro: Analysis Offsensive 100
+# TrendMicro: Analysis Offsensive 100
 
 
 **Category:** Analysis Offsensive 
