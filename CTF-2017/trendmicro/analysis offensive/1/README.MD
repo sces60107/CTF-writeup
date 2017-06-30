@@ -8,7 +8,7 @@
 
 ## Write-up
 
-Unzip [file1.zip](file1.zip) then you will get a file named [Forensic_Encyption](./Forensic_Encyption). (As you see, here is a typo)
+Unzip [files1.zip](files1.zip) then you will get a file named [Forensic_Encyption](./Forensic_Encyption). (As you see, here is a typo)
 
 Encounter this kind of question. The first thing I do is use foremost or binwalk to check whether there are some secret files hidden inside.
 
